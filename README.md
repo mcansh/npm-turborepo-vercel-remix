@@ -1,5 +1,3 @@
-> 🚨 note this one doesn't actually work as vercel is unable to install the proper version of Turbo 🚨
-
 # Remix Turborepo Vercel
 
 Example of setting up a Remix app that will be deployed to Vercel from inside a Turborepo monorepo.
